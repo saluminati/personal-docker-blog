@@ -1,0 +1,718 @@
+# Translation of plugin - My Syntax Highlighter - in Russian (Russia)
+# This file is distributed under the same license as the plugin - My Syntax Highlighter.
+msgid ""
+msgstr ""
+"Project-Id-Version: My Syntax Highlighter\n"
+"POT-Creation-Date: 2019-06-06 16:17+0300\n"
+"PO-Revision-Date: 2019-06-06 16:17+0300\n"
+"Last-Translator: Arthur Gareginyan\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: my-syntax-highlighter.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/php/core.php:32 inc/php/page.php:43
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/php/core.php:40 inc/php/core.php:65
+msgid "Upgrade to PRO"
+msgstr "Обновить до PRO"
+
+#: inc/php/core.php:61
+msgid "Donate"
+msgstr "Поддержать"
+
+#: inc/php/core.php:90
+msgid "Syntax Highlighter"
+msgstr "Syntax Highlighter"
+
+#: inc/php/functional.php:235
+msgid "Language &rarr; Shortcode"
+msgstr "Язык &rarr; Шорткод"
+
+#: inc/php/functional.php:236
+msgid "Shortcode aliases"
+msgstr "Псевдонимы шорткодов"
+
+#: inc/php/messages.php:33 inc/php/tabs/support.php:25
+msgid "Hello!"
+msgstr "Привет!"
+
+#: inc/php/messages.php:34
+msgid "We are the team of Space X-Chimp."
+msgstr "Мы - команда Space X-Chimp."
+
+#: inc/php/messages.php:39
+#, php-format
+msgid "Thank you for installing our plugin! We hope you will love it! %s"
+msgstr "Благодарим вас за установку нашего плагина! Надеемся, он вам полюбится! %s"
+
+#: inc/php/messages.php:90
+msgid "You have installed an old version of this plugin."
+msgstr "Вы установили устаревшую версию этого плагина."
+
+#: inc/php/messages.php:91
+msgid "Please update the plugin to the latest version, and all will be fine."
+msgstr "Пожалуйста, обновите плагин до последней версии и всё будет отлично."
+
+#: inc/php/messages.php:126
+msgid "Settings saved successfully."
+msgstr ""
+
+#: inc/php/page.php:30
+#, php-format
+msgid "by %s Space X-Chimp %s"
+msgstr "от %s Space X-Chimp %s"
+
+#: inc/php/page.php:36
+msgid "Version"
+msgstr "Версия"
+
+#: inc/php/page.php:44
+msgid "Usage"
+msgstr "Применение"
+
+#: inc/php/page.php:45
+msgid "F.A.Q."
+msgstr "F.A.Q."
+
+#: inc/php/page.php:46 inc/php/sidebar.php:56 inc/php/tabs/settings.php:159
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/php/page.php:47
+msgid "Store"
+msgstr "Магазин"
+
+#: inc/php/sidebar.php:17
+msgid "We are «Space X-Chimp»"
+msgstr "Мы «Space X-Chimp»"
+
+#: inc/php/sidebar.php:38
+msgid "About"
+msgstr "О плагине"
+
+#: inc/php/sidebar.php:40
+msgid "This plugin gives you the ability to easily and safely embed a syntax-highlighted source code within pages and posts on your WordPress website without losing its formatting."
+msgstr ""
+
+#: inc/php/sidebar.php:47
+msgid "Help"
+msgstr "Помощь"
+
+#: inc/php/sidebar.php:49
+msgid "If you have a question, please read the information in the FAQ section."
+msgstr "Если у вас есть вопрос, пожалуйста ознакомьтесь с информацией в разделе FAQ."
+
+#: inc/php/sidebar.php:58 inc/php/tabs/settings.php:161
+msgid "Every little contribution helps to cover our costs and allows us to spend more time creating things for awesome people like you to enjoy."
+msgstr "Каждый небольшой вклад помогает покрыть наши расходы и позволяет нам тратить больше времени на создание вещей, которыми могут наслаждаться удивительные люди, такие как вы."
+
+#: inc/php/sidebar.php:63 inc/php/tabs/settings.php:166
+#: inc/php/tabs/support.php:21
+msgid "Donate with PayPal"
+msgstr "Пожертвовать через PayPal"
+
+#: inc/php/sidebar.php:65 inc/php/tabs/settings.php:168
+msgid "Thanks for your support!"
+msgstr "Спасибо за вашу поддержку!"
+
+#: inc/php/tabs/faq.php:13
+msgid "Frequently Asked Questions"
+msgstr "Часто задаваемые вопросы"
+
+#: inc/php/tabs/faq.php:17
+msgid "If you have a question, please read the Frequently Asked Questions below to see if the answer is here."
+msgstr "Если у вас есть вопрос, пожалуйста, прочтите часто задаваемые вопросы."
+
+#: inc/php/tabs/faq.php:42
+msgid "Where can I find a documentation for this plugin?"
+msgstr ""
+
+#: inc/php/tabs/faq.php:47
+#, php-format
+msgid "Please visit our %s Documentation site %s to view documentation."
+msgstr ""
+
+#: inc/php/tabs/faq.php:55
+msgid "Will this plugin work on my wordpress.COM website?"
+msgstr "Будет ли этот плагин работать на моем веб-сайте wordpress.COM?"
+
+#: inc/php/tabs/faq.php:58
+msgid "Sorry, this plugin is available for use only on self-hosted (wordpress.ORG) websites."
+msgstr "К сожалению, этот плагин доступен для использования только на самостоятельно размещённых веб-сайтах (wordpress.ORG)."
+
+#: inc/php/tabs/faq.php:60
+msgid "Please note that there is a difference between wordpress.COM and wordpress.ORG."
+msgstr ""
+
+#: inc/php/tabs/faq.php:61
+msgid "The wordpress.COM is a blog hosting service that offers a limited version of the popular self-hosted WordPress software."
+msgstr ""
+
+#: inc/php/tabs/faq.php:64
+#, php-format
+msgid "You can learn more about the difference here: %s ."
+msgstr ""
+
+#: inc/php/tabs/faq.php:71
+msgid "Will this plugin work/compatible with the theme I use?"
+msgstr ""
+
+#: inc/php/tabs/faq.php:74
+msgid "This plugin is compatible with most themes."
+msgstr ""
+
+#: inc/php/tabs/faq.php:75
+msgid "But, unfortunately, we cannot check it with all third-party themes (especially paid ones) for compatibility, therefore there are cases when this plugin does not work with a third-party theme."
+msgstr ""
+
+#: inc/php/tabs/faq.php:76
+msgid "We constantly check this plugin for compatibility with third-party themes."
+msgstr ""
+
+#: inc/php/tabs/faq.php:77
+msgid "If we find that this plugin is incompatible with a third-party theme, and if we can fix it on our part, we release an update of our plugin to fix the problem."
+msgstr ""
+
+#: inc/php/tabs/faq.php:79
+msgid "If you find a conflict between our plugin and a third-party theme, please let us know and we will definitely release an update of our plugin to fix the problem."
+msgstr ""
+
+#: inc/php/tabs/faq.php:83
+msgid "Will this plugin work/compatible with other plugins that I use?"
+msgstr ""
+
+#: inc/php/tabs/faq.php:86
+msgid "This plugin is compatible with most plugins."
+msgstr ""
+
+#: inc/php/tabs/faq.php:87
+msgid "But, unfortunately, we cannot check it with all third-party plugins (especially paid ones) for compatibility, therefore there are cases when this plugin does not work with a third-party plugin."
+msgstr ""
+
+#: inc/php/tabs/faq.php:88
+msgid "We constantly check this plugin for compatibility with third-party plugins."
+msgstr ""
+
+#: inc/php/tabs/faq.php:89
+msgid "If we find that this plugin is incompatible with a third-party plugin, and if we can fix it on our part, we release an update of our plugin to fix the problem."
+msgstr ""
+
+#: inc/php/tabs/faq.php:91
+msgid "If you find a conflict between our plugin and a third-party plugin, please let us know and we will definitely release an update of our plugin to fix the problem."
+msgstr ""
+
+#: inc/php/tabs/faq.php:95
+msgid "Can I use this plugin on my language?"
+msgstr "Можно ли использовать этот плагин на моём языке?"
+
+#: inc/php/tabs/faq.php:98
+msgid "Yes."
+msgstr "Да."
+
+#: inc/php/tabs/faq.php:99
+msgid "This plugin is ready for translation and has already been translated into several languages."
+msgstr "Этот плагин готов к переводу и уже переведен на несколько языков."
+
+#: inc/php/tabs/faq.php:100
+msgid "But If your language is not available then you can make one."
+msgstr ""
+
+#: inc/php/tabs/faq.php:101
+msgid "It is also possible that not all existing translations are up-to-date or correct, so you are welcome to make corrections."
+msgstr ""
+
+#: inc/php/tabs/faq.php:102
+msgid "Many of plugin users would be delighted if you share your translation with the community."
+msgstr "Многие пользователи плагинов будут рады, если вы поделитесь своим переводом с сообществом."
+
+#: inc/php/tabs/faq.php:103
+msgid "Thanks for your contribution!"
+msgstr "Спасибо за ваш вклад!"
+
+#: inc/php/tabs/faq.php:107
+#, php-format
+msgid "If you want to help translate this plugin, please visit the %s."
+msgstr "Если вы хотите помочь перевести этот плагин, пожалуйста, посетите %s."
+
+#: inc/php/tabs/faq.php:111
+msgid "You can also use the POT file that is included and placed in the \"languages\" folder to create a translation PO file."
+msgstr "Вы также можете использовать файл POT, который включён в плагин и помещён в папку «languages», чтобы создать PO файл перевода."
+
+#: inc/php/tabs/faq.php:114
+#, php-format
+msgid "Just send the PO file to us ( %s ) and we will include this translation within the next plugin update."
+msgstr "Просто отправьте нам файл PO на %s и мы включим этот перевод в следующее обновление плагина."
+
+#: inc/php/tabs/faq.php:121
+msgid "How does it work?"
+msgstr "Как это работает?"
+
+#: inc/php/tabs/faq.php:124
+msgid "On the \"Settings\" tab, select the desired settings and click the \"Save changes\" button."
+msgstr "На вкладке «Настройки» выберите нужные параметры и нажмите кнопку «Сохранить изменения»."
+
+#: inc/php/tabs/faq.php:125 inc/php/tabs/usage.php:50
+msgid "Enjoy the fancy syntax highlighting on your website."
+msgstr "Наслаждайтесь результатом модной подсветки синтаксиса на вашем веб-сайте."
+
+#: inc/php/tabs/faq.php:126 inc/php/tabs/usage.php:50
+msgid "It's that simple!"
+msgstr "Это так просто!"
+
+#: inc/php/tabs/faq.php:130
+msgid "Does this plugin requires any modification of the theme?"
+msgstr "Этот плагин требует изменения темы?"
+
+#: inc/php/tabs/faq.php:133 inc/php/tabs/faq.php:141
+msgid "Absolutely not."
+msgstr "Абсолютно нет."
+
+#: inc/php/tabs/faq.php:134
+msgid "This plugin is configurable entirely from the plugin settings page."
+msgstr "Этот плагин настраивается полностью на странице настроек плагина."
+
+#: inc/php/tabs/faq.php:138
+msgid "Does this require any knowledge of HTML or CSS?"
+msgstr "Требуются ли какие-либо знания HTML или CSS?"
+
+#: inc/php/tabs/faq.php:142
+msgid "This plugin can be configured with no knowledge of HTML or CSS, using an easy-to-use plugin settings page."
+msgstr "Этот плагин можно настроить без знания HTML или CSS, с помощью простой в использовании страницы настройки плагина."
+
+#: inc/php/tabs/faq.php:146
+msgid "It's not working."
+msgstr "Оно не работает."
+
+#: inc/php/tabs/faq.php:147
+msgid "What could be wrong?"
+msgstr "Что может быть не так?"
+
+#: inc/php/tabs/faq.php:150
+msgid "As with every plugin, it's possible that things don't work."
+msgstr "Как и в случае с любым другим плагином, что-то может не работать."
+
+#: inc/php/tabs/faq.php:151
+msgid "It's impossible to tell what could be wrong exactly."
+msgstr "Невозможно точно сказать, что может быть не так."
+
+#: inc/php/tabs/faq.php:152
+msgid "The most common reason for this is a web browser's cache."
+msgstr "Наиболее распространённой причиной этого является кеш веб-браузера."
+
+#: inc/php/tabs/faq.php:153
+msgid "Every web browser stores a cache of the websites you visit (pages, images, and etc.) to reduce bandwidth usage and server load."
+msgstr "Каждый веб-браузер хранит кеш веб-сайтов, которые вы посещаете (страницы, изображения и т. д.) для того, чтобы уменьшить использование интернет канала и нагрузку на сервер."
+
+#: inc/php/tabs/faq.php:154
+msgid "This is called the browser's cache."
+msgstr "Это называется кешем браузера."
+
+#: inc/php/tabs/faq.php:155
+msgid "Clearing your browser's cache may solve the problem."
+msgstr "Очистка кеша браузера может решить проблему."
+
+#: inc/php/tabs/faq.php:157
+msgid "If you post a support request in the plugin's support forum on WordPress.org, we'd be happy to give it a look and try to help out."
+msgstr "Если вы разместите запрос поддержки на форуме поддержки плагина на WordPress.org, то мы с радостью посмотрим и попытаемся помочь."
+
+#: inc/php/tabs/faq.php:158 inc/php/tabs/faq.php:187
+msgid "Please include as much information as possible, including a link to your website where the problem can be seen."
+msgstr "Пожалуйста, укажите как можно больше информации, включая ссылку на ваш веб-сайт, на котором можно увидеть проблему."
+
+#: inc/php/tabs/faq.php:162
+msgid "The last WordPress update is preventing me from editing my website that is using this plugin."
+msgstr "Последнее обновление WordPress не позволяет мне редактировать мой веб-сайт, на котором используется этот плагин."
+
+#: inc/php/tabs/faq.php:163
+msgid "Why is this?"
+msgstr "Почему так?"
+
+#: inc/php/tabs/faq.php:166
+msgid "This plugin can not cause such problem."
+msgstr "Этот плагин не может вызвать такую проблему."
+
+#: inc/php/tabs/faq.php:167
+msgid "More likely, the problem are related to the settings of the website."
+msgstr "Скорее всего, проблема связана с настройками веб-сайта."
+
+#: inc/php/tabs/faq.php:168
+msgid "It could just be a cache, so please try to clear your website's cache (may be you using a caching plugin, or some web service such as the CloudFlare) and then the cache of your web browser."
+msgstr "Это может быть кеш, поэтому попробуйте очистить кеш вашего веб-сайта (возможно, вы используете плагин для кеширования или какой-либо веб-сервис, такой как CloudFlare), а затем кеш вашего веб-браузера."
+
+#: inc/php/tabs/faq.php:169
+msgid "Also please try to re-login to the website, this too can help."
+msgstr "Также, пожалуйста, попробуйте повторно войти на веб-сайт, это тоже может помочь."
+
+#: inc/php/tabs/faq.php:173
+msgid "Where to report bug if found?"
+msgstr "Где можно сообщить об ошибке?"
+
+#: inc/php/tabs/faq.php:176
+msgid "Bug reports are very welcome!"
+msgstr ""
+
+#: inc/php/tabs/faq.php:179
+#, php-format
+msgid "Please visit our %s contact page %s and report."
+msgstr ""
+
+#: inc/php/tabs/faq.php:184 inc/php/tabs/faq.php:212
+msgid "Please do not forget to specify the name of the plugin."
+msgstr "Пожалуйста не забудьте указать название плагина."
+
+#: inc/php/tabs/faq.php:185 inc/php/tabs/faq.php:213 inc/php/tabs/faq.php:229
+msgid "Thank you!"
+msgstr "Спасибо!"
+
+#: inc/php/tabs/faq.php:188
+msgid "Describe in more detail what exactly you are seeing."
+msgstr ""
+
+#: inc/php/tabs/faq.php:189
+msgid "Here are some examples:"
+msgstr ""
+
+#: inc/php/tabs/faq.php:192
+msgid "Elements of the plugin settings page are not working."
+msgstr ""
+
+#: inc/php/tabs/faq.php:193
+msgid "An error message is displayed on the plugin settings page."
+msgstr ""
+
+#: inc/php/tabs/faq.php:194
+msgid "An error message is displayed on the front end of website."
+msgstr ""
+
+#: inc/php/tabs/faq.php:195
+msgid "An error message is displayed on the back end of website."
+msgstr ""
+
+#: inc/php/tabs/faq.php:196
+msgid "Website is crashed."
+msgstr ""
+
+#: inc/php/tabs/faq.php:201
+msgid "Where to share any ideas or suggestions to make the plugin better?"
+msgstr "Где можно поделиться идеями или предложениями, чтобы сделать плагин лучше?"
+
+#: inc/php/tabs/faq.php:204
+msgid "Any suggestions are very welcome!"
+msgstr "Любые предложения приветствуются!"
+
+#: inc/php/tabs/faq.php:207
+#, php-format
+msgid "Please visit our %s contact page %s."
+msgstr ""
+
+#: inc/php/tabs/faq.php:217
+msgid "I love this plugin!"
+msgstr "Мне нравится этот плагин!"
+
+#: inc/php/tabs/faq.php:218
+msgid "Can I help somehow?"
+msgstr "Могу Я чем-то помочь?"
+
+#: inc/php/tabs/faq.php:221
+msgid "Yes, any contributions are very welcome!"
+msgstr "Да, любой вклад приветствуется!"
+
+#: inc/php/tabs/faq.php:224
+#, php-format
+msgid "Please visit our %s Support Us %s page."
+msgstr "Пожалуйста, посетите нашу страницу %s Поддержите нас %s ."
+
+#: inc/php/tabs/faq.php:233
+msgid "Where can I find information about your licenses, payment process and refunds?"
+msgstr ""
+
+#: inc/php/tabs/faq.php:238
+#, php-format
+msgid "Answers to common questions about our licenses, payment process and refunds can be found on our %s Common Questions %s page."
+msgstr ""
+
+#: inc/php/tabs/faq.php:246
+msgid "Where can I find information about your customer support?"
+msgstr ""
+
+#: inc/php/tabs/faq.php:251
+#, php-format
+msgid "Answers to common questions about our customer support can be found on our %s Common Questions %s page."
+msgstr ""
+
+#: inc/php/tabs/faq.php:259
+msgid "Where can I find information about your affiliate program?"
+msgstr ""
+
+#: inc/php/tabs/faq.php:264
+#, php-format
+msgid "Answers to common questions about our affiliate program can be found on our %s Common Questions %s page."
+msgstr ""
+
+#: inc/php/tabs/faq.php:272
+msgid "My question wasn't answered here."
+msgstr "На мой вопрос здесь не было ответа."
+
+#: inc/php/tabs/faq.php:277
+#, php-format
+msgid "You can ask your question on %s this page %s."
+msgstr "Вы можете задать ваш вопрос на %s этой странице %s."
+
+#: inc/php/tabs/faq.php:282
+msgid "But please keep in mind that this plugin is free, and there is no a special support team, so we have no way to answer everyone."
+msgstr "Но имейте в виду, что этот плагин является бесплатным и без специальной поддержки, поэтому у нас нет возможности ответить на все вопросы."
+
+#: inc/php/tabs/settings.php:33 inc/php/tabs/settings.php:120
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: inc/php/tabs/settings.php:38
+msgid "Languages"
+msgstr ""
+
+#: inc/php/tabs/settings.php:40
+msgid "Here you can select the programming languages."
+msgstr ""
+
+#: inc/php/tabs/settings.php:45
+msgid "Default language"
+msgstr "Язык по-умолчанию"
+
+#: inc/php/tabs/settings.php:46
+msgid "Default language mode for the shortcode [code]. You can select -NONE- to leave without highlighting."
+msgstr "Режим языка по умолчанию для шорткода [code]. Вы можете выбрать -NONE- для того, чтобы оставить без подсветки."
+
+#: inc/php/tabs/settings.php:55
+msgid "Code editor settings"
+msgstr "Настройки редактора кода"
+
+#: inc/php/tabs/settings.php:57
+msgid "Here you can customize the code editor."
+msgstr "Здесь вы можете настроить редактор кода."
+
+#: inc/php/tabs/settings.php:62
+msgid "Color theme"
+msgstr "Цветовая схема"
+
+#: inc/php/tabs/settings.php:63
+msgid "You can choose the theme which you like to view."
+msgstr "Вы можете выбрать тему, которую хотите просмотреть."
+
+#: inc/php/tabs/settings.php:67
+msgid "Options"
+msgstr ""
+
+#: inc/php/tabs/settings.php:70
+msgid "Line numbering"
+msgstr "Номера строк"
+
+#: inc/php/tabs/settings.php:71
+msgid "Display the line numbers in the code block."
+msgstr "Отображать номера строк в блоке кода."
+
+#: inc/php/tabs/settings.php:74
+msgid "First line number"
+msgstr "Номер первой строки"
+
+#: inc/php/tabs/settings.php:75
+msgid "You can set the number of the first line."
+msgstr "Вы можете задать номер первой строки."
+
+#: inc/php/tabs/settings.php:79
+msgid "Dollar sign ($)"
+msgstr "Символ доллара ($)"
+
+#: inc/php/tabs/settings.php:80
+msgid "Display the dollar sign ($) before every code line."
+msgstr "Отображать знак доллара ($) перед каждой строкой с кодом."
+
+#: inc/php/tabs/settings.php:83
+msgid "Tab character size"
+msgstr "Ширина Таба"
+
+#: inc/php/tabs/settings.php:84
+msgid "The width (in spaces) of the Tab character. Default is 4."
+msgstr "Ширина Таба (в пробелах). По умолчанию — 4."
+
+#: inc/php/tabs/settings.php:88
+msgid "Field size"
+msgstr ""
+
+#: inc/php/tabs/settings.php:91
+msgid "Automatic height"
+msgstr "Автоматическая высота"
+
+#: inc/php/tabs/settings.php:92
+msgid "Automatic height of code editor field. YES - Automatic height. NO - Fixed height, with scrollbar."
+msgstr "YES - Автоматическая высота. NO - Фиксированная высота, с полосой прокрутки."
+
+#: inc/php/tabs/settings.php:95
+msgid "Fixed height"
+msgstr ""
+
+#: inc/php/tabs/settings.php:96
+msgid "The height (in pixels) of code editor field. Default is 300px."
+msgstr "Высота (в пикселях) блока кода. Значение по умолчанию — 300px."
+
+#: inc/php/tabs/settings.php:105
+msgid "Additional"
+msgstr ""
+
+#: inc/php/tabs/settings.php:107
+msgid "Here you can configure additional options."
+msgstr ""
+
+#: inc/php/tabs/settings.php:111
+msgid "Convert special characters"
+msgstr ""
+
+#: inc/php/tabs/settings.php:112
+msgid "Convert special characters ( &amp; &quot; &apos; &lt; &gt; ) used in a post to HTML entities before starting shortcode processing. When the shortcode processing ends, convert special HTML entities back to characters. This helps prevent some possible errors."
+msgstr ""
+
+#: inc/php/tabs/settings.php:125
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+#: inc/php/tabs/settings.php:127
+msgid "Click the \"Save changes\" button to update this preview."
+msgstr "Нажмите кнопку «Сохранить изменения», чтобы обновить этот пред. просмотр."
+
+#: inc/php/tabs/settings.php:152
+msgid "This is an example of HTML language."
+msgstr "Это пример HTML языка."
+
+#: inc/php/tabs/support.php:13
+msgid "Support Us"
+msgstr "Поддержать нас"
+
+#: inc/php/tabs/support.php:28
+#, php-format
+msgid "My name is %s Arthur %s, I'm the founder of %s Space X-Chimp %s, which unites a small international team of young people."
+msgstr "Меня зовут %s Артур %s и Я основатель %s Space X-Chimp %s, который объединяет небольшую международную команду молодых людей."
+
+#: inc/php/tabs/support.php:37
+msgid "Our intention is to create projects that will make this world a better place."
+msgstr ""
+
+#: inc/php/tabs/support.php:38
+msgid "Our motto is - «Follow your dreams and don’t give up»."
+msgstr ""
+
+#: inc/php/tabs/support.php:39
+msgid "We are really passionate about our work, we like what we are doing and hope that you will be enriched by our projects too."
+msgstr ""
+
+#: inc/php/tabs/support.php:42
+msgid "We spend a lot of time and effort trying to make sure that the themes, plugins and other things we build are useful, and the ultimate proof of that for us is that you actually want to use them."
+msgstr "Мы тратим много времени и усилий, пытаясь убедиться в том, что темы, плагины и другие вещи, которые мы создаём, полезны, и окончательное доказательство этого для нас то, что вы на самом деле хотите их использовать."
+
+#: inc/php/tabs/support.php:43
+msgid "But we are an independent developers, without a regular income, so every little contribution helps to cover our costs and allows us to spend more time creating things for awesome people like you to enjoy."
+msgstr "Но мы независимые разработчики, без регулярного дохода, так что каждый небольшой вклад помогает покрыть наши расходы и позволяет нам тратить больше времени на создание вещей, которыми могут наслаждаться удивительные люди, такие как вы."
+
+#: inc/php/tabs/support.php:46
+msgid "If you appreciate our work, you can buy us a cup of coffee!"
+msgstr "Если вы цените мою работу, то вы можете купить мне кофе!"
+
+#: inc/php/tabs/support.php:49
+msgid "Thank you for your support!"
+msgstr "Спасибо за вашу поддержку!"
+
+#: inc/php/tabs/usage.php:13
+msgid "Usage Instructions"
+msgstr "Инструкция по использованию"
+
+#: inc/php/tabs/usage.php:15
+msgid "To add the syntax highlighting to your code in any post, simply follow these steps:"
+msgstr "Чтобы добавить подсветку синтаксиса к вашему коду в любой записи, просто выполните следующие действия:"
+
+#: inc/php/tabs/usage.php:17
+msgid "Go to the \"Settings\" tab on this page."
+msgstr "Перейдите на вкладку «Настройки»."
+
+#: inc/php/tabs/usage.php:18
+msgid "Select the desired settings."
+msgstr "Выберите нужные настройки."
+
+#: inc/php/tabs/usage.php:19
+msgid "Click the \"Save changes\" button."
+msgstr "Нажмите кнопку «Сохранить изменения»."
+
+#: inc/php/tabs/usage.php:21
+msgid "On the WordPress Post/Page Editor page switch to the Text/HTML editor and wrap your source code in one of the supported shortcodes (like <code>[code]...[/code]</code> that is universal shortcode)."
+msgstr "На странице WordPress Post/Page Editor перейдите в редактор Text/HTML и оберните ваш исходный код в один из поддерживаемых коротких кодов (как <code>[code]...[/code]</code> - это универсальный короткий код)."
+
+#: inc/php/tabs/usage.php:22
+msgid "Example:"
+msgstr "Пример:"
+
+#: inc/php/tabs/usage.php:32
+msgid "In this case, the shortcode will prevent WordPress from inserting paragraph breaks between `This`, `is` and `an \"example\"`, as well as ensure that the double quotes around `example` are not converted to typographic (curly) quotes."
+msgstr "В этом случае, шорткод не даст WordPress вставить теги разрыва абзацев между `This`, `is` и `an \"example\"`, а также не даст преобразовать двойные кавычки вокруг `example ` в типографские (вьющиеся) кавычки."
+
+#: inc/php/tabs/usage.php:34 inc/php/tabs/usage.php:40
+msgid "Note!"
+msgstr "Примечание!"
+
+#: inc/php/tabs/usage.php:35
+msgid "To avoid problems, edit posts that contain your source code only in Text/HTML mode."
+msgstr "Что бы избежать проблем редактируйте записи которые содержат ваш исходный код только в режиме Text/HTML."
+
+#: inc/php/tabs/usage.php:37
+msgid "You can use the following shortcodes:"
+msgstr "Вы можете использовать шорткоды такие как:"
+
+#: inc/php/tabs/usage.php:43
+#, php-format
+msgid "The PRO version supports 154 programming languages and 125 shortcodes. %s Learn more %s"
+msgstr ""
+
+#: inc/php/tabs/usage.php:55
+#, php-format
+msgid "If you want more options, then %s let us know %s and we will be happy to add them."
+msgstr "Если вы хотите больше вариантов, то %s сообщите нам %s и мы будем рады добавить их."
+
+#. Plugin Name of the plugin/theme
+msgid "My Syntax Highlighter"
+msgstr "My Syntax Highlighter"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/ArthurGareginyan/my-syntax-highlighter"
+msgstr "https://github.com/ArthurGareginyan/my-syntax-highlighter"
+
+#. Description of the plugin/theme
+msgid "Easily and safely embed a syntax-highlighted source code within pages and posts on your WordPress website without losing its formatting."
+msgstr "Легко и безопасно встраивайте подсвеченный исходный код в страницы и записи на вашем WordPress веб-сайте без потери его форматирования."
+
+#. Author of the plugin/theme
+msgid "Space X-Chimp"
+msgstr "Space X-Chimp"
+
+#. Author URI of the plugin/theme
+msgid "https://www.spacexchimp.com"
+msgstr "https://www.spacexchimp.com"
+
+#~ msgid "Main Settings"
+#~ msgstr "Основные Настройки"
+
+#~ msgid "Height of code block"
+#~ msgstr "Высота блока кода"
+
+#~ msgid "Enable plugin"
+#~ msgstr "Включить плагин"
+
+#~ msgid "Enable or disable this plugin."
+#~ msgstr "Включить или выключить этот плагин."

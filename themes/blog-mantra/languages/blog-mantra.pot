@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Mantra\n"
+"POT-Creation-Date: 2018-04-26 15:00-0600\n"
+"PO-Revision-Date: 2018-04-26 15:00-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:72 index.php:77 search.php:74
+msgid "&laquo; Previous"
+msgstr ""
+
+#: archive.php:73 index.php:78 search.php:75
+msgid "Next &raquo;"
+msgstr ""
+
+#: inc/customizer/control.php:29
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/customizer/default.php:75
+msgid "Copyright 2018. All rights reserved"
+msgstr ""
+
+#: inc/customizer/options.php:14
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/options.php:23
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/options.php:40
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: inc/customizer/options.php:59
+msgid "Enable Social Media"
+msgstr ""
+
+#: inc/customizer/options.php:78
+msgid "Enable Search"
+msgstr ""
+
+#: inc/customizer/options.php:91
+msgid "Slideshow"
+msgstr ""
+
+#: inc/customizer/options.php:108
+msgid "Disable Header Image in Home Page"
+msgstr ""
+
+#: inc/customizer/options.php:109
+msgid "This option works only when header image is inserted"
+msgstr ""
+
+#: inc/customizer/options.php:128
+msgid "Enable Slideshow"
+msgstr ""
+
+#: inc/customizer/options.php:129
+msgid ""
+"If you enable slideshow, header image will be automatically hidden in "
+"homepage"
+msgstr ""
+
+#: inc/customizer/options.php:148
+msgid "Display Excerpt"
+msgstr ""
+
+#: inc/customizer/options.php:168
+msgid "Display Read Button"
+msgstr ""
+
+#: inc/customizer/options.php:188
+msgid "Select slider type"
+msgstr ""
+
+#: inc/customizer/options.php:193
+msgid "Single Post at a Time"
+msgstr ""
+
+#: inc/customizer/options.php:194
+msgid "Multiple Posts at a Time"
+msgstr ""
+
+#: inc/customizer/options.php:214
+msgid "Category for Slideshow"
+msgstr ""
+
+#: inc/customizer/options.php:215
+msgid "Posts of selected category will be used as sliders"
+msgstr ""
+
+#: inc/customizer/options.php:233
+msgid "Transition Delay"
+msgstr ""
+
+#: inc/customizer/options.php:234 inc/customizer/options.php:254
+msgid "In second(s)"
+msgstr ""
+
+#: inc/customizer/options.php:253
+msgid "Transition Duration"
+msgstr ""
+
+#: inc/customizer/options.php:270
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/options.php:331
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/options.php:351 inc/customizer/options.php:451
+msgid "Enable Post Date"
+msgstr ""
+
+#: inc/customizer/options.php:370 inc/customizer/options.php:471
+msgid "Enable Post Author"
+msgstr ""
+
+#: inc/customizer/options.php:389 inc/customizer/options.php:491
+msgid "Enable Post Category"
+msgstr ""
+
+#: inc/customizer/options.php:410 inc/customizer/options.php:556
+msgid "Enable Post Share"
+msgstr ""
+
+#: inc/customizer/options.php:432
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/customizer/options.php:512
+msgid "Enable Post Tags"
+msgstr ""
+
+#: inc/customizer/options.php:534
+msgid "Enable Author Description"
+msgstr ""
+
+#: inc/customizer/options.php:577
+msgid "Enable Related Posts"
+msgstr ""
+
+#: inc/customizer/options.php:598
+msgid "Enable Previous/Next Post Navigation"
+msgstr ""
+
+#: inc/customizer/options.php:620
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer/options.php:636
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/options.php:640
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/options.php:644
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer/options.php:648
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer/options.php:652
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/customizer/options.php:656
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer/options.php:660
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer/options.php:664
+msgid "vimeo"
+msgstr ""
+
+#: inc/customizer/options.php:668
+msgid "Flickr"
+msgstr ""
+
+#: inc/customizer/options.php:672
+msgid "Behance"
+msgstr ""
+
+#: inc/customizer/options.php:676
+msgid "Dribbble"
+msgstr ""
+
+#: inc/customizer/options.php:680
+msgid "Tumblr"
+msgstr ""
+
+#: inc/customizer/options.php:684
+msgid "Github"
+msgstr ""
+
+#: inc/customizer/options.php:709
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/options.php:726
+msgid "Enable Footer Navigation"
+msgstr ""
+
+#: inc/customizer/options.php:745
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/options.php:764
+msgid "Enable Scroll to Top"
+msgstr ""
+
+#: inc/template-tags.php:88
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:105 template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""

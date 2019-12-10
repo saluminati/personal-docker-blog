@@ -1,0 +1,36 @@
+== Change log ==
+
+= 1.0.9 - Feb 18 2018 =
+* Style updated
+* image size managed
+
+= 1.0.8 - Sept 10 2018 =
+* Blog Mantra custom widgets updated
+* Post meta color updated
+* Post design maintained
+
+= 1.0.7 - Sept 03 2018 =
+* Dummy image removed
+
+= 1.0.6 - May 30 2018 =
+* Missing style added
+
+= 1.0.5 - May 30 2018 =
+* Style updated
+
+= 1.0.4 - May 23 2018 =
+* Style updated
+
+= 1.0.3 - May 18 2018 =
+* Header image issue solved
+
+= 1.0.2 - May 05 2018 =
+* Style updated
+* Breadcrumb Trail licenses added
+
+= 1.0.1 - Apr 26 2018 =
+* Style updated
+* Theme info page added
+
+= 1.0.0 - Mar 28 2018 =
+* Initial release

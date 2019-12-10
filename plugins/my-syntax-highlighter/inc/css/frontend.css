@@ -1,0 +1,30 @@
+/*
+ * WordPress plugin My Syntax Highlighter by Space X-Chimp ( https://www.spacexchimp.com ).
+ *
+ * @package     My Syntax Highlighter
+ * @author      Arthur Gareginyan
+ * @link        https://www.spacexchimp.com
+ * @copyright   Copyright (c) 2016-2019 Space X-Chimp. All Rights Reserved.
+ */
+
+
+.my-syntax-highlighter pre {
+    padding: 0;
+    margin: 0;
+    border-radius: 3px;
+    border: 1px solid #e0e0e0;
+    background-color: #f9f9f9;
+}
+
+.my-syntax-highlighter .CodeMirror {
+    border-radius: 3px;
+}
+
+.my-syntax-highlighter .CodeMirror pre {
+    height: 24px;
+    margin: 0 !important;
+}
+
+.my-syntax-highlighter .CodeMirror-linenumber {
+    text-align: center;
+}

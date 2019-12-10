@@ -1,0 +1,38 @@
+version: '3'
+services:
+  wordpress:
+    build: ../
+    restart: always
+    ports:
+      - "8000:80"
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: root
+      WORDPRESS_DB_PASSWORD: root
+      WORDPRESS_DB_NAME: salman_blog
+      WORDPRESS_CONFIG_EXTRA: |
+        /* Multisite */
+        #define('WP_ALLOW_MULTISITE', true );
+        ##define('MULTISITE', true);
+        #define('SUBDOMAIN_INSTALL', false);
+        #define('DOMAIN_CURRENT_SITE', 'localhost:8000'); // TODO: change to actual domain when deploying
+        #define('PATH_CURRENT_SITE', '/');
+        #define('SITE_ID_CURRENT_SITE', 1);
+        #define('BLOG_ID_CURRENT_SITE', 1);
+    #volumes:
+    #  - wordpress:/var/www/html
+  db:
+    image: mysql:5.7
+    restart: always
+    logging:
+      driver: none
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_USERNAME: root
+      MYSQL_PASSWORD: root
+      MYSQL_DATABASE: salman_blog
+    volumes:
+      - db:/var/lib/mysql
+volumes:
+  wordpress:
+  db:
