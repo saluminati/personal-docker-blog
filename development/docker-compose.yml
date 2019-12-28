@@ -33,6 +33,8 @@ services:
       MYSQL_DATABASE: salman_blog
     volumes:
       - db:/var/lib/mysql
+    ports:
+      - "33061:3306"
 volumes:
   wordpress:
   db:
